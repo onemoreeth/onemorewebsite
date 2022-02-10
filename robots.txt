@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://onemoreeth.github.io/onemorewebsite/sitemap.xml
